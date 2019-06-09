@@ -1,5 +1,7 @@
 # One Dark Mattermost
 
+![One Dark Mattermost Preview](/screenshot.png)
+
 ```json
 {
   "sidebarBg":"#21252b",
@@ -28,6 +30,3 @@
   "mentionBg":"#98c379"
 }
 ```
-
-## Screenshot
-![One Dark Mattermost Preview](/image.png)
