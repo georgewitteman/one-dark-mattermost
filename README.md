@@ -6,7 +6,7 @@
 {
   "sidebarBg":"#21252b",
   "sidebarText":"#abb2bf",
-  "sidebarUnreadText":"#abb2bf",
+  "sidebarUnreadText":"#d7dae0",
   "sidebarTextHoverBg":"#3a3f4b",
   "sidebarTextActiveBorder":"#4d78cc",
   "sidebarTextActiveColor":"#d7dae0",
